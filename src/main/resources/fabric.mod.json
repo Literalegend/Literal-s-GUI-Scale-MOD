@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "hudscale",
+  "version": "${version}",
+  "name": "HUD Scale Editor",
+  "description": "Drag and scale HUD elements with an in-game editor.",
+  "environment": "client",
+  "entrypoints": { "client": ["com.hudscale.client.HudScaleClient"] },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

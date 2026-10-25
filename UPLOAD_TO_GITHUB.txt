@@ -1,0 +1,5 @@
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+Do not upload this ZIP as a single file.
+At the repository root you should see build.gradle, settings.gradle, gradle.properties, src, and .github.
+Then open GitHub Actions and run "Build Fabric Mod".
+NOTE: This package is the existing v0.2 prototype/foundation, not the finished Feather-style HUD scaler.
